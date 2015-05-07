@@ -1,7 +1,8 @@
-ibeacon-client
-==============
+# ibeacon-client
 
 ## Preview
+
+![ibeacon](screenshot/ibeacon.png)
 
 ![preview](screenshot/preview.gif)
 
